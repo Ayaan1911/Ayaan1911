@@ -55,7 +55,7 @@ $ cat about.txt
 ```
 🚩  RedFlag CI         — AI security scanner for CI/CD pipelines (7 scan layers)
 🔍  Eidolon            — Cybersecurity deception & forensics suite
-📡  astra-net          — TypeScript networking project
+🛡️  Project Argus   — AI rental scam detection for Indian cities (5-stage ML pipeline)
 ```
 
 ---
