@@ -24,7 +24,7 @@
 $ cat about.txt
   name     : Mohammad Ayaan
   alias    : Zero / MDA
-  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem IV
+  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem III
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : AI security infrastructure for the agentic era
   status   : [ ██████████ ] shipping
