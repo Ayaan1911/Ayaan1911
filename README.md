@@ -1,15 +1,18 @@
 <!-- Header -->
 <div align="center">
-█████╗ ██╗   ██╗ █████╗  █████╗ ███╗  ██╗
+
+```
+ █████╗ ██╗   ██╗ █████╗  █████╗ ███╗  ██╗
 ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗████╗ ██║
 ███████║ ╚████╔╝ ███████║███████║██╔██╗██║
 ██╔══██║  ╚██╔╝  ██╔══██║██╔══██║██║╚████║
 ██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚███║
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 *"In the world of security, the quietest code speaks the loudest."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=BTech+CSE+(Cyber+Security)+%40+MSRIT;Building+AI+Security+Infrastructure;React+%2B+FastAPI+%2B+AWS+Bedrock;Securing+the+agentic+future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=BTech+CSE+(Cyber+Security)+%40+MSRIT;Building+AI+Security+Infrastructure;React+%2B+FastAPI+%2B+AWS+Bedrock;Securing+the+agentic+future)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,10 +33,13 @@ $ cat about.txt
 ---
 
 ## currently building
-🔦  Lumos         — MCP-native AI Action Firewall · transport-layer policy enforcement for AI agents
-🚩  RedFlag CI    — AI-powered CI/CD security scanner · 7 scan layers · AWS Bedrock + Claude Sonnet
-🔍  Eidolon       — Cybersecurity deception & forensics suite · honeypots · breach checks · secret scanning
-🛡️  Project Argus — AI rental scam detection · Isolation Forest · FastAPI · React · Playwright
+
+| | Project | Description |
+|---|---|---|
+| 🔦 | **[Lumos](https://github.com/Ayaan1911/lumos)** | MCP-native AI Action Firewall — transport-layer policy enforcement for AI agents. Zero code changes required. |
+| 🚩 | **RedFlag CI** | AI-powered CI/CD security scanner for vibe-coded code. 7 scan layers via asyncio · AWS Bedrock + Claude Sonnet |
+| 🔍 | **Eidolon** | Cybersecurity deception & forensics suite — honeypots · breach checks · secret scanning · Terminal Noir UI |
+| 🛡️ | **Project Argus** | AI rental scam detection for Indian cities — Isolation Forest · AWS · FastAPI · Playwright |
 
 ---
 
@@ -47,7 +53,7 @@ $ cat about.txt
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,16 +65,22 @@ $ cat about.txt
 ---
 
 ## ctf & security
-⚔️  web exploitation · forensics · reverse engineering · cryptography
-🏆  Thryve CTF — binary analysis · multi-layer decryption pipeline
-🔐  IDOR · SSTI · DNS exfiltration · Mersenne Twister crypto · steganography
+
+```
+domains  :  web exploitation · forensics · reverse engineering · cryptography
+competed :  Thryve CTF · HACK'A'WAR 2026 · Google The Big Code 2026 (Top 15K)
+topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganography · binary analysis
+```
 
 ---
 
-## currently watching / playing
-📺  anime  :  Bungo Stray Dogs · Haikyu · Vinland Saga
-🎮  games  :  Hollow Knight · Resident Evil 4 (again) · FromSouls
-📖  manga  :  One Piece · ORV · Berserk
+## outside the terminal
+
+```
+📺  anime   :  Vinland Saga · Bungo Stray Dogs · Haikyu · Berserk
+🎮  games   :  Hollow Knight · Resident Evil 4 (again) · FromSouls
+📖  reading :  One Piece · ORV · Berserk
+```
 
 > *"Endure. And in enduring, grow strong."* — Kentaro Miura
 
