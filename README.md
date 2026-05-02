@@ -37,9 +37,8 @@ $ cat about.txt
 | | Project | Description |
 |---|---|---|
 | 🔦 | **[Lumos](https://github.com/Ayaan1911/lumos)** | MCP-native AI Action Firewall — transport-layer policy enforcement for AI agents. Zero code changes required. |
-| 🚩 | **RedFlag CI** | AI-powered CI/CD security scanner for vibe-coded code. 7 scan layers via asyncio · AWS Bedrock + Claude Sonnet |
-| 🔍 | **Eidolon** | Cybersecurity deception & forensics suite — honeypots · breach checks · secret scanning · Terminal Noir UI |
-| 🛡️ | **Project Argus** | AI rental scam detection for Indian cities — Isolation Forest · AWS · FastAPI · Playwright |
+| 🚩 | **[RedFlag CI](https://github.com/Ayaan1911/Project-RedFlag-CI)** | AI-powered CI/CD security scanner for vibe-coded code. 7 scan layers via asyncio · AWS Bedrock + Claude Sonnet |
+| 🔍 | **[Eidolon](https://github.com/Ayaan1911/Eidolon)** | Cybersecurity deception & forensics suite — honeypots · breach checks · secret scanning · Terminal Noir UI |
 
 ---
 
