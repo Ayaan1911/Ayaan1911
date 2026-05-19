@@ -76,12 +76,12 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 ## outside the terminal
 
 ```
-📺  anime   :  Vinland Saga · Bungo Stray Dogs · Haikyu · Berserk
-🎮  games   :  Hollow Knight · Resident Evil 4 (again) · FromSouls
-📖  reading :  One Piece · ORV · Berserk
+📺  anime   :  Witch Hat Atelier · Bungo Stray Dogs · Jo Jo
+🎮  games   :  Hollow Knight · RE9 · Pragmata
+📖  reading :  One Piece · ORV · Lord of the Mysteries
 ```
 
-> *"Endure. And in enduring, grow strong."* — Kentaro Miura
+> *"What we do in life echoes in eternity."* — Marcus Aurelius
 
 ---
 
