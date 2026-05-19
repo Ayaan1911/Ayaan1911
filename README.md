@@ -67,7 +67,7 @@ $ cat about.txt
 
 ```
 domains  :  web exploitation · forensics · reverse engineering · cryptography
-competed :  Thryve CTF · HACK'A'WAR 2026 · Google The Big Code 2026 (Top 15K)
+competed :  Thryve CTF · Google The Big Code 2026 (Top 15K)
 topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganography · binary analysis
 ```
 
