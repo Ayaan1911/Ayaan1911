@@ -1,12 +1,6 @@
 <!-- Header -->
-<div align="center">
-
-```
- █████╗ ██╗   ██╗ █████╗  █████╗ ███╗  ██╗
-██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗████╗ ██║
-███████║ ╚████╔╝ ███████║███████║██╔██╗██║
-██╔══██║  ╚██╔╝  ██╔══██║██╔══██║██║╚████║
-██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚███║
+<  ╚██╔╝  ██╔══██║██╔══██║██║╚████║
+██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
@@ -22,9 +16,9 @@
 
 ```bash
 $ cat about.txt
-  name     : Mohammad Ayaan
-  alias    : Zero / MDA
-  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem III
+  name     : zer
+  alias    : Zero / M
+  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem II
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : AI security infrastructure for the agentic era
   status   : [ ██████████ ] shipping
