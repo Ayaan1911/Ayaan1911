@@ -1,6 +1,11 @@
-<!-- Header -->
-<  ╚██╔╝  ██╔══██║██╔══██║██║╚████║
-██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚
+<div align="center">
+
+```
+ █████╗ ██╗   ██╗ █████╗  █████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗████╗  ██║
+███████║ ╚████╔╝ ███████║███████║██╔██╗ ██║
+██╔══██║  ╚██╔╝  ██╔══██║██╔══██║██║╚████║
+██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚███║
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
@@ -16,8 +21,8 @@
 
 ```bash
 $ cat about.txt
-  name     : zer
-  alias    : Zero / M
+  name     : zero0
+  alias    : zero0 / MDA
   college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem II
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : AI security infrastructure for the agentic era
