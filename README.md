@@ -89,7 +89,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 <div align="center">
 
 ![Ayaan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ayaan1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayaan1911&theme=tokyo-night&hide_border=true&area=true)
+![streak](https://streak-stats.demolab.com?user=Ayaan1911&theme=tokyonight&hide_border=true&card_width=467)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayaan1911&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
