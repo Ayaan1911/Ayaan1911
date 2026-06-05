@@ -23,7 +23,7 @@
 $ cat about.txt
   name     : zero0
   alias    : zero0 / MDA
-  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem II
+  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem IV
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : AI security infrastructure for the agentic era
   status   : [ ██████████ ] shipping
@@ -89,7 +89,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 <div align="center">
 
 ![Ayaan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ayaan1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![streak](https://streak-stats.demolab.com?user=Ayaan1911&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayaan1911&theme=tokyo-night&hide_border=true&area=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayaan1911&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
