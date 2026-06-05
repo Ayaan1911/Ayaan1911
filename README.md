@@ -90,6 +90,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 
 ![Ayaan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ayaan1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![streak](https://streak-stats.demolab.com?user=Ayaan1911&theme=tokyonight&hide_border=true&card_width=467)
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayaan1911&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -102,6 +103,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ayaan-711176268)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayaan1911)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zero19_11/)
 
 </div>
 
