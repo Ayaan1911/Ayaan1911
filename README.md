@@ -76,7 +76,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 
 ```
 📺  anime   :  Witch Hat Atelier · Bungo Stray Dogs · Jo Jo
-🎮  games   :  Hollow Knight · RE9 · Pragmata
+🎮  games   :  Hollow Knight · RE9 · Watch Dogs
 📖  reading :  One Piece · ORV · Lord of the Mysteries
 ```
 
