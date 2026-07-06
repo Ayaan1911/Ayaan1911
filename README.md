@@ -35,8 +35,8 @@ $ cat about.txt
 
 | | Project | Description |
 |---|---|---|
-| 🔦 | **[Lumos](https://github.com/Ayaan1911/lumos)** | MCP-native AI Action Firewall — transport-layer policy enforcement for AI agents. Zero code changes required. |
 | 🛡️ | **[Argus Sentinel](https://github.com/Ayaan1911/Argus-Sentinel)** | AI-powered cybersecurity reasoning engine — turns raw scan output (Subfinder, Httpx, Nmap, Nuclei) into prioritized, explainable findings with audience-aware guidance. |
+| 🔦 | **[Lumos](https://github.com/Ayaan1911/lumos)** | MCP-native AI Action Firewall — transport-layer policy enforcement for AI agents. Zero code changes required. |
 | 🔍 | **[Eidolon](https://github.com/Ayaan1911/Eidolon)** | Cybersecurity deception & forensics suite — honeypots · breach checks · secret scanning · Terminal Noir UI |
 
 ---
