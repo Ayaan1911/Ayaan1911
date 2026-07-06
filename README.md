@@ -25,7 +25,7 @@ $ cat about.txt
   alias    : zero0 / MDA
   college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem IV
   stack    : React · FastAPI · Python · AWS · PostgreSQL
-  building : AI security infrastructure for the agentic era
+  building : Argus Sentinel — AI cybersecurity reasoning engine
   status   : [ ██████████ ] shipping
 ```
 
@@ -36,7 +36,7 @@ $ cat about.txt
 | | Project | Description |
 |---|---|---|
 | 🔦 | **[Lumos](https://github.com/Ayaan1911/lumos)** | MCP-native AI Action Firewall — transport-layer policy enforcement for AI agents. Zero code changes required. |
-| 🚩 | **[RedFlag CI](https://github.com/Ayaan1911/Project-RedFlag-CI)** | AI-powered CI/CD security scanner for vibe-coded code. 7 scan layers via asyncio · AWS Bedrock + Claude Sonnet |
+| 🛡️ | **[Argus Sentinel](https://github.com/Ayaan1911/Argus-Sentinel)** | AI-powered cybersecurity reasoning engine — turns raw scan output (Subfinder, Httpx, Nmap, Nuclei) into prioritized, explainable findings with audience-aware guidance. |
 | 🔍 | **[Eidolon](https://github.com/Ayaan1911/Eidolon)** | Cybersecurity deception & forensics suite — honeypots · breach checks · secret scanning · Terminal Noir UI |
 
 ---
