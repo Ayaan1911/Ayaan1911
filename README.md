@@ -22,7 +22,7 @@
 ```bash
 $ cat about.txt
   name     : zero0
-  alias    : zero0 / MDA
+  alias    : zero / MDA
   college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem IV
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : Argus Sentinel — AI cybersecurity reasoning engine
