@@ -75,7 +75,7 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 ## outside the terminal
 
 ```
-📺  anime   :  Witch Hat Atelier · Bungo Stray Dogs · Jo Jo
+📺  anime   :  Bleach · Bungo Stray Dogs · Black Clover
 🎮  games   :  AC Black Flag · RE7 · Watch Dogs
 📖  reading :  One Piece · ORV · Lord of the Mysteries
 ```
