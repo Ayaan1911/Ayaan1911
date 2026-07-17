@@ -75,9 +75,9 @@ topics   :  IDOR · SSTI · DNS exfiltration · Mersenne Twister · steganograph
 ## outside the terminal
 
 ```
-📺  anime   :  Bleach · Bungo Stray Dogs · Black Clover
+📺  anime   :  One Piece · Bungo Stray Dogs · Black Clover
 🎮  games   :  AC Black Flag · RE7 · Watch Dogs
-📖  reading :  One Piece · ORV · Lord of the Mysteries
+📖  reading :  Mushoku Tensei · ORV · Lord of the Mysteries
 ```
 
 > *"What we do in life echoes in eternity."* — Marcus Aurelius
