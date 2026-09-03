@@ -23,7 +23,7 @@
 $ cat about.txt
   name     : zero0
   alias    : zero / MDA
-  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem IV
+  college  : MSRIT, Bengaluru — BTech CSE (Cyber Security), Sem V
   stack    : React · FastAPI · Python · AWS · PostgreSQL
   building : Argus Sentinel — AI cybersecurity reasoning engine
   status   : [ ██████████ ] shipping
